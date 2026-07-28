@@ -54,7 +54,7 @@
 
 ## Установка
 
-1. Скачайте `RowColHighlighter.xlam` со [страницы релизов](https://github.com/npocmobot/Excel-RowCol-Highlighter/releases/latest)
+1. Скачайте `RowColHighlighter.xlam` со [страницы релизов](https://github.com/npocmobot/RowColHighlighter/releases/latest)
 2. **Важно! Снимите блокировку с файла:**
    - Нажмите правой кнопкой мыши на скачанный файл `RowColHighlighter.xlam`
    - Выберите **«Свойства»**
